@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(230, 230, 109);
+    font-size: 100%;
+    font-weight: bolder;
+}
+h1{
+   color: maroon; 
+   text-align: center;
+   font-size: 50px;
+   font-style: oblique;
+   border-style: dotted;
+   border-color: black;
+   border-radius: 50%;
+   background-color: blanchedalmond;
+       
+    
+}
+.form{
+    display: flex ;
+    font-weight:bolder;
+}
